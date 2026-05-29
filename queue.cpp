@@ -19,6 +19,7 @@ public:
     {
         int num;
         cout << "Enter a number: ";
+        cin >>
 
     }
 }
